@@ -66,7 +66,9 @@ The command is as follows:
 ALTER [[GLOBAL | LOCAL] {TEMPORARY | TEMP}] TABLE table_name SET SORTKEY (column, [ ... ] )
 ```
 
-**Note:** This command only changes `catalog` without sorting the data immediately. To sort data, you must use the `VACUUM SORT ONLY` command.
+**Note:** 
+
+This command only changes `catalog` without sorting the data immediately. To sort data, you must use the `VACUUM SORT ONLY` command.
 
 **Example**
 
