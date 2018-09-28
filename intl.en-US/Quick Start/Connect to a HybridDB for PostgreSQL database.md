@@ -28,7 +28,7 @@ HybridDB for PostgreSQL supports PostgreSQL 8.2 version, and you must use the ma
 
 3.  Enter the **Properties** as shown in the following figure:
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/16845/153812495412878_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/16845/153812706012878_en-US.png)
 
 4.  Click **OK** to connect to the HybridDB for PostgreSQL database.
 
@@ -232,8 +232,7 @@ Users can also use Python to connect to HybridDB for PostgreSQL instance’s dat
 
 Libpq is the C language interface of PostgreSQL database. You can access a PostgreSQL database in a C program through libpq to manipulate database. After Greenplum or PostgreSQL is installed, you can find its static libraries and dynamic libraries under the *lib* directory.
 
-For related cases, see [libpq Example Programs](http://www.postgresql.org/docs/8.3/static/libpq-example.html).
-
+-   For related cases, see [libpq Example Programs](http://www.postgresql.org/docs/8.3/static/libpq-example.html).
 -   For the details of libpq, see [PostgreSQL 9.4 Documentation - Chapter 31. libpq - C Library](http://www.postgresql.org/docs/9.4/static/libpq.html).
 
 **ODBC**
