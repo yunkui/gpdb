@@ -1,6 +1,6 @@
 # 从PostgreSQL导入 {#concept_hnr_qmr_52b .concept}
 
-工具pgsql2pgsql支持不落地的把HybridDB for PostgreSQL/Greenplum Database/PostgreSQL/PPAS中的表迁移到HybridDB for PostgreSQL/Greenplum Database/PostgreSQL/PPAS。
+工具pgsql2pgsql支持把HybridDB for PostgreSQL/Greenplum Database/PostgreSQL/PPAS中的表迁移到HybridDB for PostgreSQL/Greenplum Database/PostgreSQL/PPAS。
 
 ## pgsql2pgsql支持的功能 {#section_l5p_kkx_52b .section}
 
