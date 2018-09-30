@@ -6,23 +6,23 @@
 
 本文内容包括：
 
--   [操作说明](#section_cpw_pyr_52b)
--   [参数释义](#section_fqw_pyr_52b)
--   [使用示例](#section_crw_pyr_52b)
--   [注意事项](#section_ssw_pyr_52b)
--   [TEXT/CSV 格式说明](#section_usw_pyr_52b)
--   [SDK 错误处理](#section_dtw_pyr_52b)
--   [常见问题](#section_ftw_pyr_52b)
--   [参考文档](#section_msd_qzr_52b)
+-   [操作说明](#)
+-   [参数释义](#)
+-   [使用示例](#)
+-   [注意事项](#)
+-   [TEXT/CSV格式说明](#)
+-   [SDK错误处理](#)
+-   [常见问题](#)
+-   [参考文档](#)
 
 ## 操作说明 {#section_cpw_pyr_52b .section}
 
 通过 HybridDB for PostgreSQL 使用 OSS 外部表，主要涉及以下操作。
 
--   [创建OSS外部表插件（oss\_ext）](#p_v4r_g1s_52b)
--   [并行导入数据](#p_rvb_h1s_52b)
--   [并行导出数据](#p_pql_h1s_52b)
--   [创建 OSS 外部表语法](#p_mjr_h1s_52b)
+-   [创建OSS外部表插件（oss\_ext）](#)
+-   [并行导入数据](#)
+-   [并行导出数据](#)
+-   [创建 OSS 外部表语法](#)
 
 **创建 OSS 外部表插件（oss\_ext）**
 
@@ -116,10 +116,10 @@ ossprotocol:
 
 该部分介绍各操作中用到的参数定义，涉及到参数包括：
 
--   [常用参数](#p_kt5_dzr_52b)
--   [导入模式参数](#p_xrm_fzr_52b)
--   [导出模式参数](#p_odc_3zr_52b)
--   [其他通用参数](#p_oqg_wzr_52b)
+-   [常用参数](#)
+-   [导入模式参数](#)
+-   [导出模式参数](#)
+-   [其他通用参数](#)
 
 **常用参数**
 
