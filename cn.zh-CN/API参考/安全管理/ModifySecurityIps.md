@@ -11,7 +11,7 @@
 
 |名称|类型|是否必须|描述|
 |--|--|----|--|
-|<公共请求参数\>|-|是|参见[公共参数](cn.zh-CN/API参考/公共参数.md#)。|
+|<公共请求参数\>|-|是|参见[公共参数](intl.zh-CN/API参考/公共参数.md#)。|
 |Action|String|是|系统规定参数，取值：ModifySecurityIps。|
 |DBInstanceId|String|是|实例名。|
 |SecurityIps|String|是|IP白名单分组下的IP列表，最多1000个，以逗号隔开，格式如下：-   0.0.0.0/0；
@@ -28,13 +28,13 @@
 
 |名称|类型|描述|
 |--|--|--|
-|<公共返回参数\>|-|详见[公共返回参数](cn.zh-CN/API参考/公共参数.md#section_apd_1rv_3bb)。|
+|<公共返回参数\>|-|详见[公共返回参数](intl.zh-CN/API参考/公共参数.md#section_apd_1rv_3bb)。|
 
 ## 请求示例 { .section}
 
 ```
 https://gpdb.aliyuncs.com/?Action=ModifySecurityIps
-&DBInstanceId=gp-bp1gjo105888f3b69
+&DBInstanceId=gp-xxxxxxx
 &SecurityIps=192.168.0.1
 &<公共请求参数>
 ```

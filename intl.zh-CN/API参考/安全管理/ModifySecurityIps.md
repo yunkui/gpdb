@@ -34,7 +34,7 @@
 
 ```
 https://gpdb.aliyuncs.com/?Action=ModifySecurityIps
-&DBInstanceId=gp-bp1gjo105888f3b69
+&DBInstanceId=gp-xxxxxxx
 &SecurityIps=192.168.0.1
 &<公共请求参数>
 ```
