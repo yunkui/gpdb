@@ -44,7 +44,7 @@
 
 ```
 https://gpdb.aliyuncs.com/?Action=DescribeSlowLogRecords
-&DBInstanceId=gp-bp1gjo105888f3b69
+&DBInstanceId=gp-xxxxxxx
 &StartTime=2018-07-09T08:00Z
 &EndTime=2018-07-09T09:00Z
 &<公共请求参数>
@@ -63,7 +63,7 @@ https://gpdb.aliyuncs.com/?Action=DescribeSlowLogRecords
 	<TotalRecordCount>1</TotalRecordCount>
 	<Items>
 		<SQLSlowRecord>
-			<HostAddress>192.168.0.123</HostAddress>
+			<HostAddress>127.0.0.1</HostAddress>
 			<DBName>test</DBName>
 			<SQLText> update test.zxb set id=0 limit 1</SQLText>
 			<QueryTimes>123</QueryTimes>
@@ -88,7 +88,7 @@ https://gpdb.aliyuncs.com/?Action=DescribeSlowLogRecords
     "Items":{
         "SQLSlowRecord":[
             {
-                "HostAddress":"192.168.0.123",
+                "HostAddress":"127.0.0.1",
                 "DBName":"test",
                 "SQLText":" update test.zxb set id=0 limit 1",
                 "QueryTimes":"123",
