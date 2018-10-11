@@ -75,7 +75,7 @@
 -   LockByExpiration：实例过期自动锁定
 -   LockByRestoration：实例回滚前的自动锁定
 -   LockByDiskQuota：实例空间满自动锁定，不可访问实例
--   
+
  |
 |LockReason|String|被锁定的原因。|
 |CreateTime|String|创建时间。|
@@ -101,12 +101,12 @@ https://gpdb.aliyuncs.com/?Action=DescribeDBInstances
 		<DBInstance>
 			<LockMode>Unlock</LockMode>
 			<DBInstanceNetType>1</DBInstanceNetType>
-			<DBInstanceId>gp-bp1gjo105888f3b69</DBInstanceId>
+			<DBInstanceId>gp-xxxxxxx</DBInstanceId>
 			<ZoneId>cn-hangzhou-e</ZoneId>
 			<DBInstanceDescription>gpdb_test</DBInstanceDescription>
 			<InstanceNetworkType>Classic</InstanceNetworkType>
-			<VSwitchId>vsw-bp13jjr8p2cq6oliv305m</VSwitchId>
-			<VpcId>vpc-bp1jjr367nag22y0ywvj6</VpcId>
+			<VSwitchId>vsw-xxxxxxx</VSwitchId>
+			<VpcId>vpc-xxxxxxx</VpcId>
 			<Engine>gpdb</Engine>
 			<ExpireTime>2019-06-27T16:00:00Z</ExpireTime>
 			<CreateTime>2018-06-27T12:07:11Z</CreateTime>
@@ -119,12 +119,12 @@ https://gpdb.aliyuncs.com/?Action=DescribeDBInstances
 		<DBInstance>
 			<LockMode>Unlock</LockMode>
 			<DBInstanceNetType>1</DBInstanceNetType>
-			<DBInstanceId>gp-bp1d2340z5yx6xzhg</DBInstanceId>
+			<DBInstanceId>gp-xxxxxxx</DBInstanceId>
 			<ZoneId>cn-hangzhou-e</ZoneId>
-			<DBInstanceDescription>gp-bp1d2340z5yx6xzhg</DBInstanceDescription>
+			<DBInstanceDescription>gp-xxxxxxx</DBInstanceDescription>
 			<InstanceNetworkType>Classic</InstanceNetworkType>
-			<VSwitchId>vsw-bp13jjr8p2cq6oliv305m</VSwitchId>
-			<VpcId>vpc-bp1jjr367nag22y0ywvj6</VpcId>
+			<VSwitchId>vsw-xxxxxxx</VSwitchId>
+			<VpcId>vpc-xxxxxxx</VpcId>
 			<Engine>gpdb</Engine>
 			<ExpireTime>2999-09-08T16:00:00Z</ExpireTime>
 			<CreateTime>2018-06-27T11:51:46Z</CreateTime>
@@ -137,12 +137,12 @@ https://gpdb.aliyuncs.com/?Action=DescribeDBInstances
 		<DBInstance>
 			<LockMode>Unlock</LockMode>
 			<DBInstanceNetType>2</DBInstanceNetType>
-			<DBInstanceId>gp-bp1lugtm4dn30mg1f</DBInstanceId>
+			<DBInstanceId>gp-xxxxxxx</DBInstanceId>
 			<ZoneId>cn-hangzhou-e</ZoneId>
 			<DBInstanceDescription>测试</DBInstanceDescription>
 			<InstanceNetworkType>VPC</InstanceNetworkType>
-			<VSwitchId>vsw-bp13jjr8p2cq6oliv305m</VSwitchId>
-			<VpcId>vpc-bp1jjr367nag22y0ywvj6</VpcId>
+			<VSwitchId>vsw-xxxxxxx</VSwitchId>
+			<VpcId>vpc-xxxxxxx</VpcId>
 			<Engine>gpdb</Engine>
 			<ExpireTime>2018-07-27T16:00:00Z</ExpireTime>
 			<CreateTime>2018-06-27T11:46:11Z</CreateTime>
@@ -155,7 +155,7 @@ https://gpdb.aliyuncs.com/?Action=DescribeDBInstances
 		<DBInstance>
 			<LockMode>Unlock</LockMode>
 			<DBInstanceNetType>1</DBInstanceNetType>
-			<DBInstanceId>gp-bp16511m0e6km530g</DBInstanceId>
+			<DBInstanceId>gp-xxxxxxx</DBInstanceId>
 			<ZoneId>cn-hangzhou-f</ZoneId>
 			<DBInstanceDescription>测试2</DBInstanceDescription>
 			<InstanceNetworkType>Classic</InstanceNetworkType>
@@ -173,12 +173,12 @@ https://gpdb.aliyuncs.com/?Action=DescribeDBInstances
 		<DBInstance>
 			<LockMode>Unlock</LockMode>
 			<DBInstanceNetType>2</DBInstanceNetType>
-			<DBInstanceId>gp-bp1xm5o26k5tx08j2</DBInstanceId>
+			<DBInstanceId>gp-xxxxxxx</DBInstanceId>
 			<ZoneId>cn-hangzhou-b</ZoneId>
-			<DBInstanceDescription>gp-bp1xm5o26k5tx08j2</DBInstanceDescription>
+			<DBInstanceDescription>gp-xxxxxxx</DBInstanceDescription>
 			<InstanceNetworkType>VPC</InstanceNetworkType>
-			<VSwitchId>vsw-bp1e55m105fuxg5coy41p</VSwitchId>
-			<VpcId>vpc-bp1gvpfymsw2t8cv4o297</VpcId>
+			<VSwitchId>vsw-xxxxxxx</VSwitchId>
+			<VpcId>vpc-xxxxxxx</VpcId>
 			<Engine>gpdb</Engine>
 			<ExpireTime>2999-09-08T16:00:00Z</ExpireTime>
 			<CreateTime>2018-06-05T03:42:41Z</CreateTime>
@@ -191,7 +191,7 @@ https://gpdb.aliyuncs.com/?Action=DescribeDBInstances
 		<DBInstance>
 			<LockMode>Unlock</LockMode>
 			<DBInstanceNetType>2</DBInstanceNetType>
-			<DBInstanceId>gp-bp1g60zau80mxt9cr</DBInstanceId>
+			<DBInstanceId>gp-xxxxxxx</DBInstanceId>
 			<ZoneId>cn-hangzhou-b</ZoneId>
 			<DBInstanceDescription>测试</DBInstanceDescription>
 			<InstanceNetworkType>Classic</InstanceNetworkType>
@@ -209,12 +209,12 @@ https://gpdb.aliyuncs.com/?Action=DescribeDBInstances
 		<DBInstance>
 			<LockMode>Unlock</LockMode>
 			<DBInstanceNetType>2</DBInstanceNetType>
-			<DBInstanceId>gp-bp1408002b6mf7fo9</DBInstanceId>
+			<DBInstanceId>gp-xxxxxxx</DBInstanceId>
 			<ZoneId>cn-hangzhou-b</ZoneId>
-			<DBInstanceDescription>gp-bp1408002b6mf7fo9</DBInstanceDescription>
+			<DBInstanceDescription>gp-xxxxxxx</DBInstanceDescription>
 			<InstanceNetworkType>VPC</InstanceNetworkType>
-			<VSwitchId>vsw-bp1e55m105fuxg5coy41p</VSwitchId>
-			<VpcId>vpc-bp1gvpfymsw2t8cv4o297</VpcId>
+			<VSwitchId>vsw-xxxxxxx</VSwitchId>
+			<VpcId>vpc-xxxxxxx</VpcId>
 			<Engine>gpdb</Engine>
 			<ExpireTime>2999-09-08T16:00:00Z</ExpireTime>
 			<CreateTime>2018-03-16T07:10:03Z</CreateTime>
@@ -241,12 +241,12 @@ https://gpdb.aliyuncs.com/?Action=DescribeDBInstances
             {
                 "LockMode":"Unlock",
                 "DBInstanceNetType":"1",
-                "DBInstanceId":"gp-bp1gjo105888f3b69",
+                "DBInstanceId":"gp-xxxxxxx",
                 "ZoneId":"cn-hangzhou-e",
                 "DBInstanceDescription":"gpdb_test",
                 "InstanceNetworkType":"Classic",
-                "VSwitchId":"vsw-bp13jjr8p2cq6oliv305m",
-                "VpcId":"vpc-bp1jjr367nag22y0ywvj6",
+                "VSwitchId":"vsw-xxxxxxx",
+                "VpcId":"vpc-xxxxxxx",
                 "Engine":"gpdb",
                 "ExpireTime":"2019-06-27T16:00:00Z",
                 "CreateTime":"2018-06-27T12:07:11Z",
@@ -259,12 +259,12 @@ https://gpdb.aliyuncs.com/?Action=DescribeDBInstances
             {
                 "LockMode":"Unlock",
                 "DBInstanceNetType":"1",
-                "DBInstanceId":"gp-bp1d2340z5yx6xzhg",
+                "DBInstanceId":"gp-xxxxxxx",
                 "ZoneId":"cn-hangzhou-e",
-                "DBInstanceDescription":"gp-bp1d2340z5yx6xzhg",
+                "DBInstanceDescription":"gp-xxxxxxx",
                 "InstanceNetworkType":"Classic",
-                "VSwitchId":"vsw-bp13jjr8p2cq6oliv305m",
-                "VpcId":"vpc-bp1jjr367nag22y0ywvj6",
+                "VSwitchId":"vsw-xxxxxxx",
+                "VpcId":"vpc-xxxxxxx",
                 "Engine":"gpdb",
                 "ExpireTime":"2999-09-08T16:00:00Z",
                 "CreateTime":"2018-06-27T11:51:46Z",
@@ -277,12 +277,12 @@ https://gpdb.aliyuncs.com/?Action=DescribeDBInstances
             {
                 "LockMode":"Unlock",
                 "DBInstanceNetType":"2",
-                "DBInstanceId":"gp-bp1lugtm4dn30mg1f",
+                "DBInstanceId":"gp-xxxxxxx",
                 "ZoneId":"cn-hangzhou-e",
                 "DBInstanceDescription":"测试",
                 "InstanceNetworkType":"VPC",
-                "VSwitchId":"vsw-bp13jjr8p2cq6oliv305m",
-                "VpcId":"vpc-bp1jjr367nag22y0ywvj6",
+                "VSwitchId":"vsw-xxxxxxx",
+                "VpcId":"vpc-xxxxxxx",
                 "Engine":"gpdb",
                 "ExpireTime":"2018-07-27T16:00:00Z",
                 "CreateTime":"2018-06-27T11:46:11Z",
@@ -295,7 +295,7 @@ https://gpdb.aliyuncs.com/?Action=DescribeDBInstances
             {
                 "LockMode":"Unlock",
                 "DBInstanceNetType":"1",
-                "DBInstanceId":"gp-bp16511m0e6km530g",
+                "DBInstanceId":"gp-xxxxxxx",
                 "ZoneId":"cn-hangzhou-f",
                 "DBInstanceDescription":"测试2",
                 "InstanceNetworkType":"Classic",
@@ -313,12 +313,12 @@ https://gpdb.aliyuncs.com/?Action=DescribeDBInstances
             {
                 "LockMode":"Unlock",
                 "DBInstanceNetType":"2",
-                "DBInstanceId":"gp-bp1xm5o26k5tx08j2",
+                "DBInstanceId":"gp-xxxxxxx",
                 "ZoneId":"cn-hangzhou-b",
-                "DBInstanceDescription":"gp-bp1xm5o26k5tx08j2",
+                "DBInstanceDescription":"gp-xxxxxxx",
                 "InstanceNetworkType":"VPC",
-                "VSwitchId":"vsw-bp1e55m105fuxg5coy41p",
-                "VpcId":"vpc-bp1gvpfymsw2t8cv4o297",
+                "VSwitchId":"vsw-xxxxxxx",
+                "VpcId":"vpc-xxxxxxx",
                 "Engine":"gpdb",
                 "ExpireTime":"2999-09-08T16:00:00Z",
                 "CreateTime":"2018-06-05T03:42:41Z",
@@ -331,7 +331,7 @@ https://gpdb.aliyuncs.com/?Action=DescribeDBInstances
             {
                 "LockMode":"Unlock",
                 "DBInstanceNetType":"2",
-                "DBInstanceId":"gp-bp1g60zau80mxt9cr",
+                "DBInstanceId":"gp-xxxxxxx",
                 "ZoneId":"cn-hangzhou-b",
                 "DBInstanceDescription":"测试",
                 "InstanceNetworkType":"Classic",
@@ -349,12 +349,12 @@ https://gpdb.aliyuncs.com/?Action=DescribeDBInstances
             {
                 "LockMode":"Unlock",
                 "DBInstanceNetType":"2",
-                "DBInstanceId":"gp-bp1408002b6mf7fo9",
+                "DBInstanceId":"gp-xxxxxxx",
                 "ZoneId":"cn-hangzhou-b",
-                "DBInstanceDescription":"gp-bp1408002b6mf7fo9",
+                "DBInstanceDescription":"gp-xxxxxxx",
                 "InstanceNetworkType":"VPC",
-                "VSwitchId":"vsw-bp1e55m105fuxg5coy41p",
-                "VpcId":"vpc-bp1gvpfymsw2t8cv4o297",
+                "VSwitchId":"vsw-xxxxxxx",
+                "VpcId":"vpc-xxxxxxx",
                 "Engine":"gpdb",
                 "ExpireTime":"2999-09-08T16:00:00Z",
                 "CreateTime":"2018-03-16T07:10:03Z",
