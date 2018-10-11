@@ -29,7 +29,7 @@
 https://gpdb.aliyuncs.com/?Action=ResetAccountPassword
 &AccountName=testaccount_1
 &AccountPassword=Testaccount_1
-&DBInstanceId=gp-bp1gjo105888f3b69
+&DBInstanceId=gp-xxxxxxx
 &<公共请求参数>
 ```
 
