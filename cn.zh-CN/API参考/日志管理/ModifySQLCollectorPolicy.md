@@ -8,7 +8,7 @@
 
 |名称|类型|是否必须|描述|
 |--|--|----|--|
-|<公共请求参数\>|-|是|参见[公共参数](cn.zh-CN/API参考/公共参数.md#)。|
+|<公共请求参数\>|-|是|参见[公共参数](intl.zh-CN/API参考/公共参数.md#)。|
 |Action|String|是|系统规定参数，取值：ModifySQLCollectorPolicy。|
 |DBInstanceId|String|是|实例名。|
 |SQLCollectorStatus|String|是| -   Enable：SQL采集开启
@@ -26,7 +26,7 @@
 
 ```
 https://gpdb.aliyuncs.com/?Action=ModifySQLCollectorPolicy
-&DBInstanceId=gp-bp1gjo105888f3b69
+&DBInstanceId=gp-xxxxxxx
 &SQLCollectorStatus=Enable
 &<公共请求参数>
 ```

@@ -26,7 +26,7 @@
 
 ```
 https://gpdb.aliyuncs.com/?Action=ModifySQLCollectorPolicy
-&DBInstanceId=gp-bp1gjo105888f3b69
+&DBInstanceId=gp-xxxxxxx
 &SQLCollectorStatus=Enable
 &<公共请求参数>
 ```
