@@ -2,7 +2,7 @@
 
 ## 描述 { .section}
 
-该接口用于修改实例的例行可维护时间，一般设置为业务的低峰时段，将维护对业务的影响降到最低。阿里云会在您设置的可维护时段内进行实例维护，
+该接口用于修改实例的例行可维护时间，一般设置为业务的低峰时段，将维护对业务的影响降到最低。阿里云会在您设置的可维护时段内进行实例维护。
 
 ## 请求参数 { .section}
 
@@ -24,7 +24,7 @@
 
 ```
 https://gpdb.aliyuncs.com/?Action=ModifyDBInstanceMaintainTime
-&DBInstanceId=gp-bp1gjo105888f3b69
+&DBInstanceId=gp-xxxxxxx
 &StartTime=02:00Z
 &EndTime=03:00Z
 &<公共请求参数>
