@@ -28,7 +28,7 @@
 https://gpdb.aliyuncs.com/?Action=CreateAccount
 &AccountName=testacc02
 &AccountPassword=pw1234
-&DBInstanceId=gp-bp1gjo105888f3b69
+&DBInstanceId=gp-xxxxxxx
 &<公共请求参数>
 ```
 
