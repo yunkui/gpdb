@@ -50,7 +50,7 @@
 
 ```
 https://gpdb.aliyuncs.com/?Action=DescribeDBInstancePerformance
-&DBInstanceId=gp-bp1gjo105888f3b69
+&DBInstanceId=gp-xxxxxxx
 &key=CpuUsage,MemoryUsage,Gpdb_SpaceUsage,Gpdb_IOPS,Gpdb_session
 &EndTime=2018-07-09T03:43Z
 &StartTime=2018-07-08T03:43Z
@@ -64,7 +64,7 @@ https://gpdb.aliyuncs.com/?Action=DescribeDBInstancePerformance
 ```
 <DescribeDBInstancePerformanceResponse> 
     <RequestId>5E85244A-AB47-46A3-A3AD-5F307DCB407E</RequestId>
-	<DBInstanceId>gp-bp1gjo105888f3b69</DBInstanceId>
+	<DBInstanceId>gp-xxxxxxx</DBInstanceId>
 	<PerformanceKeys>
 		<Key>MemoryUsage</Key>
 		<GroupValues>
@@ -161,7 +161,7 @@ https://gpdb.aliyuncs.com/?Action=DescribeDBInstancePerformance
 ```
 {
         "RequestId":"5E85244A-AB47-46A3-A3AD-5F307DCB407E",
-        "DBInstanceId":"gp-bp1gjo105888f3b69",
+        "DBInstanceId":"gp-xxxxxxx",
         "PerformanceKeys":[
             {
                 "Key":"MemoryUsage",
