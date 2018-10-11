@@ -8,7 +8,7 @@
 
 |名称|类型|是否必须|描述|
 |--|--|----|--|
-|<公共请求参数\>|-|是|参见[公共参数](cn.zh-CN/API参考/公共参数.md#)。|
+|<公共请求参数\>|-|是|参见[公共参数](intl.zh-CN/API参考/公共参数.md#)。|
 |Action|String|是|系统规定参数，取值为ModifyDBInstanceNetworkType。|
 |DBInstanceId|String|是|实例名。|
 |InstanceNetworkType|String|是|指定网络类型：-   VPC：专有网络类型
@@ -29,7 +29,7 @@
 
 ```
 https://gpdb.aliyuncs.com/?Action=ModifyDBInstanceNetworkType
-&DBInstanceId=gp-bp1gjo105888f3b69
+&DBInstanceId=gp-xxxxxxx
 &InstanceNetworkType=VPC
 &<公共请求参数>
 ```

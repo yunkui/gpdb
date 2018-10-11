@@ -29,7 +29,7 @@
 
 ```
 https://gpdb.aliyuncs.com/?Action=ModifyDBInstanceNetworkType
-&DBInstanceId=gp-bp1gjo105888f3b69
+&DBInstanceId=gp-xxxxxxx
 &InstanceNetworkType=VPC
 &<公共请求参数>
 ```
