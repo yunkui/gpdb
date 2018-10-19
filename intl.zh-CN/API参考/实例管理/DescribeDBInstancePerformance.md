@@ -30,10 +30,7 @@
 |--|--|--|
 |Key|String|性能参数。|
 |Unit|String|展示单位。|
-|ValueFormat|String|值的格式：-   如果是null，则直接返回VALUE。
--   如果不是null，则需要解析VALUE，以“&”分隔，如：`com_delete&com_insert&com_insert_select&com_replace`。
-
-|
+|ValueFormat|String|值的格式。如果有多个值，以“&”分隔，例如`com_delete&com_insert&com_insert_select&com_replace`。Value与之对应。|
 |GroupValues|List<GroupValue\>|数组格式：\{value1, value2, …\}。|
 
 |名称|类型|描述|
