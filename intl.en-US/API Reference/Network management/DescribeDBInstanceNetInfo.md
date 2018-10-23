@@ -16,7 +16,7 @@ You can call this operation to query the connection information of the instance.
 
 |Name |Type|Description|
 |-----|----|-----------|
-|<Common response parameters\>|-|For more information, see [Common response parameters](reseller.en-US/API Reference/Common parameters.md#section_apd_1rv_3bb).,|
+|<Common response parameters\>|-|For more information, see [Common response parameters](reseller.en-US/API Reference/Common parameters.md#section_apd_1rv_3bb).|
 |DBInstanceNetInfos|List<DBInstanceNetInfo\>|The connection information of the instance.|
 |InstanceNetworkType|String | -   Classic: classic networks.
 -   VPC: VPC networks.
