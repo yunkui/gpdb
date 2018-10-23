@@ -16,7 +16,7 @@ You can call this operation to check whether SQL audit is enabled for the specif
 
 |Name|Type|Description|
 |----|----|-----------|
-|<Common response parameters\>|-|For more information, see[Common response parameters](reseller.en-US/API Reference/Common parameters.md#section_apd_1rv_3bb).|
+|<Common response parameters\>|-|For more information, see [Common response parameters](reseller.en-US/API Reference/Common parameters.md#section_apd_1rv_3bb).|
 |SQLCollectorStatus|String| -   Enable: SQL audit is enabled.
 -   Disabled: SQL audit is disabled.
 
