@@ -8,7 +8,7 @@ You can call this operation to create an account for a database.
 
 |Name|Type|Required| Description|
 |----|----|--------|------------|
-|<Common request parameters\>|-| Yes|For more information, see[Common parameters](reseller.en-US/API Reference/Common parameters.md#).|
+|<Common request parameters\>|-| Yes|For more information, see [Common parameters](reseller.en-US/API Reference/Common parameters.md#).|
 |Action|String| Yes|The operation that you want to perform. Set the value to CreateAccount.|
 |DBInstanceId|String| Yes|The instance name.|
 |DatabaseName|String|No|The database name.|
