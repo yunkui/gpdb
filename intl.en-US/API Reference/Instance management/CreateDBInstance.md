@@ -29,7 +29,7 @@ You can call this operation to create an instance of HybridDB for PostgreSQL.
 
 |Name|Type |Description|
 |----|-----|-----------|
-|<Common response parameters\>|String|For more information, see[Common response parameters](reseller.en-US/API Reference/Common parameters.md#section_apd_1rv_3bb)|
+|<Common response parameters\>|String|For more information, see [Common response parameters](reseller.en-US/API Reference/Common parameters.md#section_apd_1rv_3bb)|
 |DBInstanceId|String |The instance ID.|
 |OrderId|String |The order ID.|
 
