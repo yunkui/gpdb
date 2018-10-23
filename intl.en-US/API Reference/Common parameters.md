@@ -9,7 +9,7 @@ Common request parameters refer to the request parameters that each API requires
 |Format|String|No|The format of the returned value. Values: JSON and XML. The default format is XML.|
 |Version|String|Yes|The version of the API, in the format of YYYY-MM-DD. The current version is 2014-08-15.|
 |AccessKeyId|String|Yes|The Key ID provided by Alibaba Cloud for you to access services.|
-|Signature|String|Yes|The result string of the signature. For more information about how to calculate a signature, see[Sign signatures](reseller.en-US/API Reference/Sign signatures.md#).|
+|Signature|String|Yes|The result string of the signature. For more information about how to calculate a signature, see [Sign signatures](intl.en-US/API Reference/Sign signatures.md#).|
 |SignatureMethod|String|Yes|The method of the signature. HMAC-SHA1 is supported currently.|
 |Timestamp|String|Yes| The timestamp of the request. The format of the date follows the [ISO8601](http://zh.wikipedia.org/wiki/ISO_8601) standard and uses UTC time. The format is as follows:
 
