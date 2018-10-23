@@ -8,7 +8,7 @@ You can call this operation to check whether SQL audit is enabled for the specif
 
 |Name|Type|Required| Description|
 |----|----|--------|------------|
-|<Common request parameters\>|-| Yes|For more information, see[Common parameters](reseller.en-US/API Reference/Common parameters.md#).|
+|<Common request parameters\>|-| Yes|For more information, see [Common parameters](reseller.en-US/API Reference/Common parameters.md#).|
 |Action|String| Yes|The operation that you want to perform. Set the value to DescribeSQLCollectorPolicy.|
 |DBInstanceId|String|Yes|The instance ID.|
 
