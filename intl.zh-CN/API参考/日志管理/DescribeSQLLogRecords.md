@@ -23,7 +23,7 @@
 
 |名称|类型|描述|
 |--|--|--|
-|<公共返回参数\>| |详见[公共参数](https://help.aliyun.com/document_detail/26224.html)。|
+|<公共返回参数\>| |详见[公共返回参数](intl.zh-CN/API参考/公共参数.md#section_apd_1rv_3bb)。|
 |TotalRecordCount|Integer|总记录数。|
 |PageNumber|Integer|页码。|
 |PageRecordCount|Integer|本页SQL日志记录个数。|
