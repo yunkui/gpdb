@@ -11,8 +11,8 @@
 |<公共请求参数\>|-|是|参见[公共参数](intl.zh-CN/API参考/公共参数.md#)。|
 |Action|String|是|系统规定参数，取值：ModifySQLCollectorPolicy。|
 |DBInstanceId|String|是|实例名。|
-|SQLCollectorStatus|String|是| -   Enable：SQL采集开启
--   Disabled：SQL采集关闭
+|SQLCollectorStatus|String|是| -   Enable：SQL采集开启。
+-   Disabled：SQL采集关闭。
 
  |
 
@@ -20,7 +20,7 @@
 
 |名称|类型|描述|
 |--|--|--|
-|<公共返回参数\>|-|详见[公共参数](https://help.aliyun.com/document_detail/26224.html)。|
+|<公共返回参数\>|-|详见[公共返回参数](intl.zh-CN/API参考/公共参数.md#section_apd_1rv_3bb)。|
 
 ## 请求示例 { .section}
 
