@@ -14,7 +14,7 @@ The instance must be a Pay-As-You-Go type instance.
 2.  Select the **region** of the instance you want to release.
 3.  Select the instance and click **Manage** in the Actions bar.
 4.  On the Basic Information page, click Release on the right-side of the Status section.
-5.  In the dialog box that appears, click the check box before**Yes, delete this instance** and then click **OK** to release the specified instance.
+5.  In the dialog box that appears, click the check box before **Yes, delete this instance** and then click **OK** to release the specified instance.
 
     **Note:** Released instances cannot be recovered. Make sure if you need the instance before you perform this operation.
 
