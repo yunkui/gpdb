@@ -12,7 +12,7 @@
 |Action|String|是|系统规定参数，取值为ModifyDBInstanceMaintainTime。|
 |DBInstanceId|String|是|实例名。|
 |StartTime|String|是|可运维的开始时间。例如：02:00Z。|
-|EndTime|String|是|可运维的结束时间。例如：03:00Z（开始时间应大于结束时间）。|
+|EndTime|String|是|可运维的结束时间。例如：03:00Z（开始时间应小于结束时间）。|
 
 ## 返回参数 { .section}
 
