@@ -1,6 +1,6 @@
 # Release a public IP address {#concept_dvb_xjx_yfb .concept}
 
-If the network environment changed after the Internet address is allocated, you can release the Internet address on HybridDB for PostgreSQL console if you don't need it any more. After releasing the Internet address, make sure to change the application configurations which related to this address. Before performing this operation, please read the following scenarios.
+If the network environment changed after the public address is allocated, you can release the public address on HybridDB for PostgreSQL console if you don't need it any more. After releasing the public address, make sure to change the application configurations which related to this address. Before performing this operation, please read the following scenarios.
 
 Before performing this operation, please read the following scenarios.
 
@@ -25,7 +25,7 @@ Public IP addresses and internal IP addresses are used in the following scenario
 4.  Click **Database Connection** on the left-side navigation.
 5.  On the Database Connection page, Click **Release Internet Address**.
 
-    If you haven't applied for an Internet address since you created an instance, there is only **Apply for internet address** on the Database Connection page.
+    If you haven't applied for a public address since you created an instance, there is only **Apply for internet address** on the Database Connection page.
 
-6.  Click **OK** on the dialog box to release the Internet address.
+6.  Click **OK** on the dialog box to release the public address.
 
