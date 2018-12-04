@@ -33,7 +33,7 @@ The XML response contains information on whether the request is successful and t
 
 ## Error response examples {#section_xcw_t1x_3bb .section}
 
-If the API call fails, no data is returned. To identify the cause of an error, you can see the appendix [Error Codes](reseller.en-US/API Reference/Error Codes.md#).
+If the API call fails, no data is returned. To identify the cause of an error, you can see the appendix [Error codes](reseller.en-US/API Reference/Appendix/Error codes/Client error codes.md#).
 
 When the call fails, an HTTP status code of 4xx or 5xx is returned. The response body contains the error code and the error message. It also contains the GUID "RequestId" and the requested "HostId." If you cannot find the cause of the error, contact Alibaba Cloud Customer Service and provide the HostId and RequestId, so that we can solve your problem as soon as possible.
 
