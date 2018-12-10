@@ -129,9 +129,9 @@ ossprotocol:
 
     如果是从阿里云的主机访问数据库，应该使用内网域名（即带有“internal”的域名），避免产生公网流量。
 
--   id：OSS 账号的 ID。
+-   id：OSS 账号的 AccessKey ID。
 
--   key：OSS 账号的 key。
+-   key：OSS 账号的 AccessKey Secret。
 
 -   bucket：指定数据文件所在的 bucket，需要通过 OSS 预先创建。
 
